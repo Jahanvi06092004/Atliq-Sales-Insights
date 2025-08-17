@@ -4,7 +4,7 @@
 This project presents a comprehensive **Sales Insights Dashboard**, turning raw sales transactions into actionable business intelligence.  
 It helps stakeholders—**Sales Directors, Marketing Team, Customer Service Team, Data and Analytics Team as well as the IT Team**—track performance, spot growth opportunities, and make data-driven decisions.
 
-> 🔗 **[Dashboard](./Dashboard%20image.png)**
+> 🔗 **[Dashboard](https://github.com/Jahanvi06092004/Atliq-Sales-Insights/blob/main/Sales%20Insights%20Dashboard.pbit)**
 
 ---
 
