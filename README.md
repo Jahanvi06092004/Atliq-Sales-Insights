@@ -19,7 +19,7 @@ It helps stakeholders—**Sales Directors, Marketing Team, Customer Service Team
 
 | File Name | Description |
 |---|---|
-| [`Sales Insights Dashboard.pbit`](./Sales%20Insights%20Dashboard.pbit) | Power BI template for the interactive dashboard |
+| [`Sales Insights Dashboard.pbit`](https://github.com/Jahanvi06092004/Atliq-Sales-Insights/blob/main/Sales%20Insights%20Dashboard.pbit) | Power BI template for the interactive dashboard |
 | [`Sales_Insights_Report.pptx`](./Sales_Insights_Report.pptx) | Business presentation summarizing insights |
 
 ---
