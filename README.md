@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 This project presents a comprehensive **Sales Insights Dashboard**, turning raw sales transactions into actionable business intelligence.  
-It helps stakeholders—**Sales, Marketing, Finance, Operations, and Leadership**—track performance, spot growth opportunities, and make data-driven decisions.
+It helps stakeholders—**Sales Directors, Marketing Team, Customer Service Team, Data and Analytics Team as well as the IT Team**—track performance, spot growth opportunities, and make data-driven decisions.
 
 > 🔗 **[Dashboard](./Dashboard%20image.png)**
 
